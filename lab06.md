@@ -3,7 +3,10 @@
     在此之前，我们先了解一下摩尔定律的基本内容。
     1965年4月，时任Fairchild半导体公司研发部主任的戈登·摩尔（Gordon E. Moore）在美国《Electronics（电子学）》杂志上刊登了一篇文章，在其中提出了”当电路所包含的元件数目上升时，单位成本就会下降”的规律，并预言微处理器芯片的电路密度每隔一年将翻番。 
 1975年，基于1971年英特尔公司的4004芯片有2300个晶体管，而在随后的8008中含有5000个晶体管，与其预测不符的事实，摩尔对这一规律进行了修正，将翻番的时间从一年调整为两年，后这一时间又被调整为两者的平均值：18个月。
-![](https://img-blog.csdn.net/20171112232140842?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemh5dXVr/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+
+                
+ ![](https://img-blog.csdn.net/20171112232140842?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemh5dXVr/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 在我看来，在不久的未来，摩尔定律可能会失效。从技术，经济和竞争力三个方面都可说明：
 1，在技术方面，摩尔提出的电路密度在18个月内翻一倍在过去的技术方面可能实现得了，但在IT领域，要想继续提高单位面积芯片上所能容纳的晶体管的数量，必然与未来的量子技术脱不了干系，然而量子技术如今尚未成熟，想要继续保持18个月翻一倍的定律几乎是痴人说梦。而且还要考虑电路的加工、能量耗散、散热性能等一系列的问题。就任何一件问题而言，如今的技术都还不能解决。
