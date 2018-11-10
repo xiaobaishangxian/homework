@@ -9,6 +9,7 @@
 5. [门与电路homework](hw05)
 6. [计算机组成与维基百科解释名词](hw06)
 7. [编程语言与维基百科解释名词](hw07)
+8. [Problem Solvingand Algorithm Design ppt 作业](hw08)
 ## 实验与实践
 
 1. [01-我的 Markdown 博客](lab01)
