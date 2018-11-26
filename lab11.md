@@ -1,7 +1,7 @@
 我的第11次博客
 IT伦理与道德   
 特此声明：此博客纯属个人意见，不参与任何其事件。         
-  随着IT技术的飞跃，越来越多的不可能已然成为现实。然而不可避免的，伦理与道德与问题随之而来.![](https://img-blog.csdn.net/20171201004759809?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2hpWWlsb29f/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)      
+  随着IT技术的飞跃，越来越多的不可能已然成为现实。然而不可避免的，伦理与道德与问题随之而来.                       ![](https://img-blog.csdn.net/20171201004759809?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2hpWWlsb29f/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)      
 韩国最大加密货币交易所bithumb被黑客攻击，3万左右个人用户数据被窃取泄露      
 ![](https://img-blog.csdn.net/20171201003547524?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2hpWWlsb29f/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)     
 Uber隐瞒大规模数据泄露，并给黑客10万封口费.
