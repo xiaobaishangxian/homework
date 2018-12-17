@@ -88,4 +88,31 @@ if (map[snakeHeadX][snakeHeadY] != BLANK_CHAR && map[snakeHeadX][snakeHeadY] != 
 gameOver(); 
 } 
 ```
-![]()
+做好之后运行是这样的，输入wasd即可控制蛇的移动了
+
+![](https://github.com/xiaobaishangxian/homework/blob/gh-pages/images/20171228232555736.png?raw=true)
+
+## 创新
+介绍一种最近比较火的贪吃蛇AI算法，可以吃满全屏~    
+![](https://github.com/xiaobaishangxian/homework/blob/gh-pages/images/20171228094733663.gif?raw=true)    
+
+伪代码如下：
+```
+if 可以吃食物
+        if 虚拟蛇沿规则最短路吃食物后能找到尾巴
+                真实蛇移动一步
+                重新判断
+        else if 虚拟蛇沿不规则最短路去吃食物能找到尾巴
+                真实蛇移动一步
+                重新判断
+else if 可知到达自己的尾巴并且移动一步已让可以到达自己尾巴
+        选择离食物最远的位置移动
+        重新判断
+else
+        DFS向最深的路径移动一步
+```
+知道了伪代码后就可以用各种语言来试试啦~
+
+最后安利一个蛇蛇大作战的游戏哦    
+效果如下图：    
+![](https://zzm99.github.io/homework/images/t1.gif)
